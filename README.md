@@ -41,12 +41,14 @@ session. The file contains:
 
 ## Reference
 The analysis methodology and application is described in detail in Chapter 3 of my thesis:
+
 Wang, Y. (2026). *Impacts of Cochlear Synaptopathy on Temporal Dynamics 
 of Auditory Neural Responses in the Budgerigar* (Doctoral dissertation, 
 University of Rochester). ProQuest Dissertations & Theses.
 https://www.proquest.com/docview/3311187178
 
 The stimulus generation follows parallel-ABR developed by Polonenko & Maddox (2019) :
+
 Polonenko, M.J. & Maddox, R.K. (2019). A parallel processing framework 
 for auditory brainstem responses. *bioRxiv*.
 https://doi.org/10.1101/731760
