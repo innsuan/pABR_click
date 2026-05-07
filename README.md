@@ -55,7 +55,9 @@ https://doi.org/10.1101/731760
 
 ## Contact
 Yingxuan Wang
+
 University of Minnesota
+
 wan04032@umn.edu
 
 ## License
