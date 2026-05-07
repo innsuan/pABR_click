@@ -49,9 +49,9 @@ https://www.proquest.com/docview/3311187178
 
 The stimulus generation follows parallel-ABR developed by Polonenko & Maddox (2019) :
 
-Polonenko, M.J. & Maddox, R.K. (2019). A parallel processing framework 
-for auditory brainstem responses. *bioRxiv*.
-https://doi.org/10.1101/731760
+Polonenko, M.J. & Maddox, R.K. (2019). The parallel auditory brainstem 
+response. *Trends in Hearing*, 23. 
+https://doi.org/10.1177/2331216519871395
 
 ## Contact
 Yingxuan Wang
